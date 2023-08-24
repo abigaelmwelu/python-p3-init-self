@@ -2,3 +2,10 @@
 
 class Dog:
     pass
+class Dog:
+  
+  def sit(self):
+    print("sitting")
+
+fido = Dog()
+fido.sit()
